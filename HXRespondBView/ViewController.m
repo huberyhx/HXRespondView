@@ -20,7 +20,7 @@
     NSLog(@"点击了btn2");
 }
 - (IBAction)btn3Click {
-    NSLog(@"点击了btn2");
+    NSLog(@"点击了btn3");
 }
 
 @end
